@@ -1,0 +1,16 @@
+Lista de Circuitos 
+1.	Transformador de ac a dc 
+2.	Sistema de luces automática 
+3.	Sensor de humedad de suelo 
+4.	Sensor de temperatura y humedad 
+5.	Sistema de riego 
+ Componentes Fundamentales 
+-	Esp-32 
+-	LM393 
+Guia a tener en cuenta para un indoor https://www.growbarato.net/blog/cual-es-la-mejor-tabla-de-cultivo-interior/  tener en cuenta Punto 1 
+tener claro el ciclo de iluminación o en su caso hacer modos de iluminación segun el ciclo de la planta  Punto 2 monitoreo principal  sistema de humedad y clima (hacer uno preciso) para tener un buen set point Monitoreo de temperatura y humedad con ESP32 y App Inventor Bluetooth https://www.youtube.com/watch?v=BoFV4lzU3Lk 
+Hice mi HUERTO DEL FUTURO | Prototipo 1 https://www.youtube.com/watch?v=Unbo6efoW5c 
+Medición de humedad de suelo | ESP32 + FC-28 - HW-080 | Arduino IDE 2.0 https://www.youtube.com/watch?v=bgvSgKeHkuQ 
+Como hacer RIEGO para PLANTAS CON este CIRCUITO AUTOMATICO 
+https://www.youtube.com/watch?v=PRiyYTIXf2g 
+Como encender luces con telegram y esp32 desde cualquier parte del mundo - PCBWay.es https://www.youtube.com/watch?v=S3HxrlVCzGM 
